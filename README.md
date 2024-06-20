@@ -13,3 +13,6 @@ HCC offers different versions of MATLAB. The `-nodisplay` command tells the syst
 
 ## Paraview
 A python script can be run so that everything that is done in the paraview GUI is recorded and can be automated. The code is generated in Python and the Slurm script just runs Python and executes the paraview script. 
+
+## Python Code
+Will be added later.
